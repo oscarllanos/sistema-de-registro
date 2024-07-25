@@ -1,3 +1,3 @@
 <h1>Readme</h1>
 
-- Creamos el readme
+- Estado del proyecto: En construcción
